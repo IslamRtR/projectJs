@@ -1,0 +1,105 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MovieSite</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body id="home">
+    <header class="header">
+        <div class="container header-container">
+            <div class="logo">
+                <a href="index.html">MovieSite</a>
+            </div>
+            <div class="filter">
+                <input type="text" id="search-input" placeholder="Поиск фильмов...">
+                <button id="search-button">Поиск</button>
+            </div>
+            <button class="navbar-toggler" id="nav-toggler">
+                <span class="hamburger"></span>
+                <span class="hamburger"></span>
+                <span class="hamburger"></span>
+            </button>
+            <nav class="nav" id="mobile-menu">
+                <ul id="nav-list">
+                    <li><a href="index.html" id="home-link">Рекомендуемые</a></li>
+                    <li><a href="" id="profile-link">Профиль</a></li>
+                    <li><a href="" id="contact-link">Интересные</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <section class="movies">
+            <div class="container">
+                <h1>Фильмы</h1>
+                <div class="movie-grid" id="movie-grid">
+                    <!-- Фильмы будут загружены сюда -->
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="footer">
+        <div>
+            <a href="#">Вакансии</a>
+            <a href="#">Реклама</a>
+            <a href="#">Соглашение</a>
+            <a href="#">Правила рекомендаций</a>
+            <a href="#">Справка</a>
+            <a href="#">Блог</a>
+            <a href="#">Кинопоиск PRO</a>
+            <a href="#">Предложения</a>
+            <a href="#">Все фильмы</a>
+            <a href="#">Все сериалы</a>
+        </div>
+        <div class="social-icons">
+            <a href="#">VK</a>
+            <a href="#">Twitter</a>
+            <a href="#">Telegram</a>
+            <a href="#">YouTube</a>
+        </div>
+        <div class="stores">
+            <img style="border-radius: 10px;" src="https://thumbs.dreamstime.com/b/%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-app-store-%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0-%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-204759434.jpg" alt="App Store">
+            <img style="border-radius: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb5LOPUgzjbz_m4aVulC-GU5zu-30HBdYnAg&s" alt="Google Play">
+            <img style="border-radius: 10px;" src="https://images.sftcdn.net/images/t_app-icon-m/p/475b95de-1bb1-4351-8a76-32d19f59d2e6/1057332160/huawei-mobile-services-logo" alt="AppGallery">
+        </div>
+        <div class="copyright">&copy; 2003 — 2025, Кинопоиск</div>
+    </footer>
+    <div id="login-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="auth-section">
+                <h2>Вход</h2>
+                <form id="login-form">
+                    <input class="login" type="text" placeholder="Логин" required>
+                    <input class="password" type="password" placeholder="Пароль" required>
+                    <button class="submit" type="submit">Войти</button>
+                </form>
+                <p>Нет аккаунта? <a href="#" id="show-register">Зарегистрироваться</a></p>
+            </div>
+            <div id="register-section" style="display: none;">
+                <h2>Регистрация</h2>
+                <form id="register-form">
+                    <input class="login1" type="text" placeholder="Имя" required>
+                    <input class="email1" type="email" placeholder="Email" required>
+                    <input class="password1" type="password" placeholder="Пароль" required>
+                    <div class="label-box">
+                        <input id="vehicle1" type="checkbox" name="vehicle1" value="Drama">
+                        <label for="vehicle1">Drama</label><br>
+                        <input id="vehicle2" type="checkbox" name="vehicle2" value="Horror">
+                        <label for="vehicle2">Horror</label><br>
+                        <input id="vehicle3" type="checkbox" name="vehicle3" value="Comedy">
+                        <label for="vehicle3">Comedy</label>
+                    </div>
+                    <button class="submit" type="submit">Зарегистрироваться</button>
+                </form>
+                <p>Уже есть аккаунт? <a href="#" id="show-login">Войти</a></p>
+            </div>
+        </div>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+
+</html>

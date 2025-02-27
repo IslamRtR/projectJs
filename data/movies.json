@@ -1,0 +1,975 @@
+[
+    {
+        "id": 1,
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "genres": [
+            "Drama"
+        ],
+        "rating": 9.3,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/326/",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg",
+        "obloshka": "https://resizing.flixster.com/tdMXmsVnR-vIj4Q5IACpEZ7O1ak=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15987_v_h8_au.jpg",
+        "director": "Frank Darabont",
+        "cast": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ],
+        "duration": 142,
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "reviews": []
+    },
+    {
+        "id": 2,
+        "title": "The Godfather",
+        "year": 1972,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "rating": 9.2,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/325/",
+        "image": "https://www.northjersey.com/gcdn/presto/2022/03/22/PNJM/0d896a12-005e-4d8f-b29f-19595efd5c6f-The_Godfather_50th.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
+        "obloshka": "https://shatpod.com/movies/wp-content/uploads/Godfather-Movie-Poster-1972.jpg",
+        "director": "Francis Ford Coppola",
+        "cast": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
+        ],
+        "duration": 175,
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "reviews": []
+    },
+    {
+        "id": 3,
+        "title": "The Godfather: Part II",
+        "year": 1974,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "rating": 9.0,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/111543/",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "obloshka": "https://ntvb.tmsimg.com/assets/p6319_v_h8_bi.jpg?w=1280&h=720",
+        "director": "Francis Ford Coppola",
+        "cast": [
+            "Al Pacino",
+            "Robert De Niro",
+            "Robert Duvall"
+        ],
+        "duration": 202,
+        "description": "The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+        "reviews": []
+    },
+    {
+        "id": 4,
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "rating": 8.9,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/342/",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Pulp_Fiction_%281994%29_poster.jpg/220px-Pulp_Fiction_%281994%29_poster.jpg",
+        "obloshka": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/vincent-mia-and-jules-in-pulp-fiction.jpg",
+        "director": "Quentin Tarantino",
+        "cast": [
+            "John Travolta",
+            "Uma Thurman",
+            "Samuel L. Jackson"
+        ],
+        "duration": 154,
+        "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "reviews": []
+    },
+    {
+        "id": 5,
+        "title": "Schindler's List",
+        "year": 1993,
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "rating": 8.9,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/329/",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "obloshka": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtOfXAQaMLuo7j6xn119LMqOGVNTYr7itBJA&s",
+        "director": "Steven Spielberg",
+        "cast": [
+            "Liam Neeson",
+            "Ralph Fiennes",
+            "Ben Kingsley"
+        ],
+        "duration": 195,
+        "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "reviews": []
+    },
+    {
+        "id": 6,
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "rating": 8.9,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/3498/",
+        "image": "https://upload.wikimedia.org/wikipedia/ru/c/c2/The_Return_of_the_King_%28game%29.jpg",
+        "obloshka": "https://m.media-amazon.com/images/S/pv-target-images/2c70c38075924358afbbf210cab6ddf9ebed7a9d47c87713c8759d5758b7dadb.jpg",
+        "director": "Peter Jackson",
+        "cast": [
+            "Elijah Wood",
+            "Viggo Mortensen",
+            "Ian McKellen"
+        ],
+        "duration": 201,
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "reviews": []
+    },
+    {
+        "id": 7,
+        "title": "Fight Club",
+        "year": 1999,
+        "genres": [
+            "Drama"
+        ],
+        "rating": 8.8,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/361/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_.jpg",
+        "obloshka": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/brad-pitt-222626-16x9.jpg?VersionId=8vuIa1kwJqTsLf9OTiG3d7EqOBMHwYhi&size=690:388",
+        "director": "David Fincher",
+        "cast": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Meat Loaf"
+        ],
+        "duration": 139,
+        "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "reviews": []
+    },
+    {
+        "id": 8,
+        "title": "Forrest Gump",
+        "year": 1994,
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "rating": 8.8,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/448/?utm_referrer=www.google.com",
+        "image": "https://static.tildacdn.com/tild3062-3635-4837-b639-633137626365/p15829_v_v13_aa.jpeg",
+        "obloshka": "https://ntvb.tmsimg.com/assets/p15829_v_h8_aw.jpg?w=960&h=540",
+        "director": "Robert Zemeckis",
+        "cast": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise"
+        ],
+        "duration": 142,
+        "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+        "reviews": []
+    },
+    {
+        "id": 9,
+        "title": "Inception",
+        "year": 2010,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "rating": 8.8,
+        "recommended": true,
+        "new": true,
+        "url": "https://flicksbar.mom/film/447301/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg",
+        "obloshka": "https://miro.medium.com/v2/resize:fit:1400/1*xLahrUiFfXAs8s_Q8JKcbA@2x.jpeg",
+        "director": "Christopher Nolan",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ],
+        "duration": 148,
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "reviews": []
+    },
+    {
+        "id": 10,
+        "title": "The Matrix",
+        "year": 1999,
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "rating": 8.7,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/301/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/I/613ypTLZHsL.jpg",
+        "obloshka": "https://screwthezoo.com/wp-content/uploads/The-Philosophy-of-The-Matrix-1024x459.jpg",
+        "director": "Lana Wachowski",
+        "cast": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ],
+        "duration": 136,
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "reviews": []
+    },
+    {
+        "id": 11,
+        "title": "Goodfellas",
+        "year": 1990,
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "rating": 8.7,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/350/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/I/71rE6BHnIpL._AC_UF894,1000_QL80_.jpg",
+        "obloshka": "https://m.media-amazon.com/images/M/MV5BYjllYzEzZDUtMmUxMi00MjEwLWFiYTQtNTg5OWY1MTlhYjI0XkEyXkFqcGdeQW1pYnJ5YW50._V1_QL75_UX500_CR0,0,500,281_.jpg",
+        "director": "Martin Scorsese",
+        "cast": [
+            "Robert De Niro",
+            "Ray Liotta",
+            "Joe Pesci"
+        ],
+        "duration": 146,
+        "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+        "reviews": []
+    },
+    {
+        "id": 12,
+        "title": "Seven Samurai",
+        "year": 1954,
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "rating": 8.6,
+        "recommended": false,
+        "new": false,
+        "url": "https://flicksbar.mom/film/332/?utm_referrer=www.google.com",
+        "image": "https://screeningroomkingston.com/wp-content/uploads/2023/04/sevensamurai.24x36_1_480x.progressive.webp",
+        "obloshka": "https://i.ytimg.com/vi/GWhUEKyTU6I/maxresdefault.jpg",
+        "director": "Akira Kurosawa",
+        "cast": [
+            "Toshirô Mifune",
+            "Takashi Shimura",
+            "Keiko Tsushima"
+        ],
+        "duration": 207,
+        "description": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+        "reviews": []
+    },
+    {
+        "id": 13,
+        "title": "City of God",
+        "year": 2002,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "rating": 8.6,
+        "recommended": false,
+        "new": false,
+        "url": "https://flicksbar.mom/film/439/?utm_referrer=www.google.com",
+        "image": "https://resizing.flixster.com/I9-WlAn_jD3A0nRxpoxY7BNRoKk=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vZjJmZWI2YzAtNjMzMy00NDk4LWFkZmYtYTQ0Yzg4YTBjMjc0LmpwZw==",
+        "obloshka": "https://www.slantmagazine.com/wp-content/uploads/2002/11/cityofgod.jpg",
+        "director": "Fernando Meirelles",
+        "cast": [
+            "Alexandre Rodrigues",
+            "Leandro Firmino",
+            "Matheus Nachtergaele"
+        ],
+        "duration": 130,
+        "description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+        "reviews": []
+    },
+    {
+        "id": 14,
+        "title": "Se7en",
+        "year": 1995,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "rating": 8.6,
+        "recommended": false,
+        "new": false,
+        "url": "https://flicksbar.mom/film/377/?utm_referrer=www.google.com",
+        "image": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2022/01/20182552/778k7hm3i6f4jp6zwyfm9dds3hfut945m728oaa1108nx24g1njsdsfym4u8u1c52he7sf0g07q6fh5o.jpg",
+        "obloshka": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv2UyCQjVz7V6kmuA2ZwnsohPMtzuaaLYD4g&s",
+        "director": "David Fincher",
+        "cast": [
+            "Morgan Freeman",
+            "Brad Pitt",
+            "Kevin Spacey"
+        ],
+        "duration": 127,
+        "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+        "reviews": []
+    },
+    {
+        "id": 15,
+        "title": "The Silence of the Lambs",
+        "year": 1991,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "rating": 8.6,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/4003949/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_.jpg",
+        "obloshka": "https://savethecat.com/wp-content/uploads/2017/05/silence-of-the-lambs-logo.jpg",
+        "director": "Jonathan Demme",
+        "cast": [
+            "Jodie Foster",
+            "Anthony Hopkins",
+            "Lawrence A. Bonney"
+        ],
+        "duration": 118,
+        "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        "reviews": []
+    },
+    {
+        "id": 16,
+        "title": "It's a Wonderful Life",
+        "year": 1946,
+        "genres": [
+            "Drama",
+            "Family",
+            "Fantasy"
+        ],
+        "rating": 8.6,
+        "recommended": false,
+        "new": false,
+        "url": "https://flicksbar.mom/film/348/?utm_referrer=www.google.com",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/It%27s_a_Wonderful_Life_%281946_poster%29.jpeg",
+        "obloshka": "data:image/jpeg;base64,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"
+    },
+    {
+        "id": 17,
+        "title": "Life Is Beautiful",
+        "year": 1997,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "rating": 8.6,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/381/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/I/71Hu4tVbdnL.jpg",
+        "obloshka": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3yf25eD83lDgqDWzsTQWptvpQGcZ4xVK72w&s",
+        "director": "Roberto Benigni",
+        "cast": [
+            "Roberto Benigni",
+            "Nicoletta Braschi",
+            "Giorgio Cantarini"
+        ],
+        "duration": 116,
+        "description": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+        "reviews": []
+    },
+    {
+        "id": 18,
+        "title": "The Usual Suspects",
+        "year": 1995,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "rating": 8.5,
+        "recommended": false,
+        "new": false,
+        "url": "https://flicksbar.mom/film/340/?utm_referrer=www.google.com",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9c/Usual_suspects_ver1.jpg",
+        "obloshka": "https://decider.com/wp-content/uploads/2015/08/the-usual-suspects-lead.png",
+        "director": "Bryan Singer",
+        "cast": [
+            "Kevin Spacey",
+            "Gabriel Byrne",
+            "Chazz Palminteri"
+        ],
+        "duration": 106,
+        "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which begin when five criminals meet at a seemingly random police lineup.",
+        "reviews": []
+    },
+    {
+        "id": 19,
+        "title": "Léon: The Professional",
+        "year": 1994,
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "rating": 8.5,
+        "recommended": false,
+        "new": false,
+        "url": "https://flicksbar.mom/film/389/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_.jpg",
+        "obloshka": "https://miro.medium.com/v2/resize:fit:1400/1*FtQk9bcpyxOKamI559i55A.png",
+        "director": "Luc Besson",
+        "cast": [
+            "Jean Reno",
+            "Gary Oldman",
+            "Natalie Portman"
+        ],
+        "duration": 110,
+        "description": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+        "reviews": []
+    },
+    {
+        "id": 20,
+        "title": "Saving Private Ryan",
+        "year": 1998,
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "rating": 8.5,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/371/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "obloshka": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOwq9M7ugBml2lCX4iXZ2cy650j4yQoYjdQ&s",
+        "director": "Steven Spielberg",
+        "cast": [
+            "Tom Hanks",
+            "Matt Damon",
+            "Tom Sizemore"
+        ],
+        "duration": 169,
+        "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+        "reviews": []
+    },
+    {
+        "id": 21,
+        "title": "Interstellar",
+        "year": 2014,
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "rating": 8.4,
+        "recommended": true,
+        "new": true,
+        "url": "https://flicksbar.mom/film/258687/?utm_referrer=www.google.com",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10543523_p_v8_as.jpg",
+        "obloshka": "https://i.ytimg.com/vi/YF1eYbfbH5k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE4gYShlMA8=&rs=AOn4CLDt6JPoesvmQnP8qf-00JpeDZUfyA",
+        "director": "Christopher Nolan",
+        "cast": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+        ],
+        "duration": 169,
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "reviews": []
+    },
+    {
+        "id": 22,
+        "title": "The Green Mile",
+        "year": 1999,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Fantasy"
+        ],
+        "rating": 8.6,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/435/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg",
+        "obloshka": "https://i.ytimg.com/vi/CmxArNBJHFQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC31q2B7MEiCA0ywoe8Wj9L5VD8lg",
+        "director": "Frank Darabont",
+        "cast": [
+            "Tom Hanks",
+            "Michael Clarke Duncan",
+            "David Morse"
+        ],
+        "duration": 189,
+        "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+        "reviews": []
+    },
+    {
+        "id": 23,
+        "title": "Spirited Away",
+        "year": 2001,
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "rating": 8.6,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/370/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/I/710ievVCTTL._AC_UF894,1000_QL80_.jpg",
+        "obloshka": "https://i.ytimg.com/vi/EfYkRhWqX3s/maxresdefault.jpg",
+        "director": "Hayao Miyazaki",
+        "cast": [
+            "Daveigh Chase",
+            "Suzanne Pleshette",
+            "Miyu Irino"
+        ],
+        "duration": 125,
+        "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+        "reviews": []
+    },
+    {
+        "id": 24,
+        "title": "Parasite",
+        "year": 2019,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Thriller"
+        ],
+        "rating": 8.6,
+        "recommended": true,
+        "new": true,
+        "url": "https://flicksbar.mom/film/1043758/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/bbed89d7822a68e883cb964d109c5b81e9dcc60fb0248c7b724467bebba45624.jpg",
+        "obloshka": "https://i.ytimg.com/vi/isOGD_7hNIY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAVtIVGulb7obZCLO32iwQ1gtmDEQ",
+        "director": "Bong Joon Ho",
+        "cast": [
+            "Kang-ho Song",
+            "Sun-kyun Lee",
+            "Yeo-jeong Cho"
+        ],
+        "duration": 132,
+        "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "reviews": []
+    },
+    {
+        "id": 25,
+        "title": "The Pianist",
+        "year": 2002,
+        "genres": [
+            "Biography",
+            "Drama",
+            "Music"
+        ],
+        "rating": 8.5,
+        "recommended": false,
+        "new": false,
+        "url": "https://flicksbar.mom/film/355/?utm_referrer=www.google.com",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30193_p_v13_aa.jpg",
+        "obloshka": "https://m.media-amazon.com/images/M/MV5BMTQ5MDQxMzQ3M15BMl5BanBnXkFtZTcwMjYxMTIyMw@@._V1_.jpg",
+        "director": "Roman Polanski",
+        "cast": [
+            "Adrien Brody",
+            "Thomas Kretschmann",
+            "Frank Finlay"
+        ],
+        "duration": 150,
+        "description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+        "reviews": []
+    },
+    {
+        "id": 26,
+        "title": "Gladiator",
+        "year": 2000,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "rating": 8.5,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/474/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/I/718zm68WXyL._AC_UF894,1000_QL80_.jpg",
+        "obloshka": "https://iapn.kz/upload/iblock/6c3/6c390165314c26aca662fe9abbcb585d.png",
+        "director": "Ridley Scott",
+        "cast": [
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen"
+        ],
+        "duration": 155,
+        "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "reviews": []
+    },
+    {
+        "id": 27,
+        "title": "American History X",
+        "year": 1998,
+        "genres": [
+            "Drama"
+        ],
+        "rating": 8.5,
+        "recommended": false,
+        "new": false,
+        "url": "https://flicksbar.mom/film/382/?utm_referrer=www.google.com",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21980_p_v10_as.jpg",
+        "obloshka": "https://discoverypolyphony.com/wp-content/uploads/2020/12/wp2294866-american-history-x-wallpapers.jpg?w=640",
+        "director": "Tony Kaye",
+        "cast": [
+            "Edward Norton",
+            "Edward Furlong",
+            "Beverly D'Angelo"
+        ],
+        "duration": 119,
+        "description": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+        "reviews": []
+    },
+    {
+        "id": 28,
+        "title": "The Departed",
+        "year": 2006,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "rating": 8.5,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/81314/?utm_referrer=www.google.com",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p162564_p_v8_ag.jpg",
+        "obloshka": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/f7e8a59c-740b-40cc-a1f5-2b25b48ec588/b9cc83ecd5789cd6757de87da57819de34011847.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=500",
+        "director": "Martin Scorsese",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Matt Damon",
+            "Jack Nicholson"
+        ],
+        "duration": 151,
+        "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+        "reviews": []
+    },
+    {
+        "id": 29,
+        "title": "Terminator 2: Judgment Day",
+        "year": 1991,
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "rating": 8.5,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/444/?utm_referrer=www.google.com",
+        "image": "https://preview.redd.it/ecyyd1m3yx891.png?width=1080&crop=smart&auto=webp&s=0451dc3de28fffef41cc207f48baba0306e54dd5",
+        "obloshka": "https://assets.lwtheatres.co.uk/wp-content/uploads/2020/08/14102531/BTTF_AUG24_Year4_Paid_Social_Assets_1600-x-1000.jpg",
+        "director": "Robert Zemeckis",
+        "cast": [
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Lea Thompson"
+        ],
+        "duration": 116,
+        "description": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+        "reviews": []
+    },
+    {
+        "id": 30,
+        "title": "Рай под ногами матерей",
+        "year": 2010,
+        "genres": [
+            "Drama"
+        ],
+        "rating": 8.8,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/234567/",
+        "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/52096347-7d6f-46f0-83f6-43935e05bfcb/600x900",
+        "obloshka": "https://www.zakon.kz/pbi/WEBP/2024-03-23/file-ce80aa54-875c-490f-a34f-7a5a41932a55/800x450.webp",
+        "director": "Руслан Акун",
+        "cast": [
+            "Юлия Зоркина",
+            "Дмитрий Стрелков",
+            "Юрий Романов",
+            "Михаил Хрусталёв"
+        ],
+        "duration": "2 ч 17 мин",
+        "description": "Мужчина с аутизмом везет мать на хадж из Кыргызстана в Мекку. Сенсационный роуд-муви о духовном поиске",
+        "reviews": []
+    },
+    {
+        "id": 31,
+        "title": "Whiplash",
+        "year": 2014,
+        "genres": [
+            "Drama",
+            "Music"
+        ],
+        "rating": 8.5,
+        "recommended": true,
+        "new": true,
+        "url": "https://flicksbar.mom/film/725190/?utm_referrer=www.google.com",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10488558_p_v12_ai.jpg",
+        "obloshka": "https://pyxis.nymag.com/v1/imgs/657/ff7/9f18d6d03eb21545a5b2dbee0cbb1d798f-24-whiplashmain.2x.rsocial.w600.jpg",
+        "director": "Damien Chazelle",
+        "cast": [
+            "Miles Teller",
+            "J.K. Simmons",
+            "Melissa Benoist"
+        ],
+        "duration": 106,
+        "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+        "reviews": []
+    },
+    {
+        "id": 32,
+        "title": "The Prestige",
+        "year": 2006,
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "rating": 8.5,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/195334/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/I/41Jy9NN1UPL._AC_UF1000,1000_QL80_.jpg",
+        "obloshka": "https://images.bauerhosting.com/legacy/empire-tmdb/films/1124/images/c5o7FN2vzI7xlU6IF1y64mgcH9E.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80",
+        "director": "Christopher Nolan",
+        "cast": [
+            "Christian Bale",
+            "Hugh Jackman",
+            "Scarlett Johansson"
+        ],
+        "duration": 130,
+        "description": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+        "reviews": []
+    },
+    {
+        "id": 33,
+        "title": "The Lion King",
+        "year": 1994,
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Drama"
+        ],
+        "rating": 8.5,
+        "recommended": false,
+        "new": false,
+        "url": "https://flicksbar.mom/film/2360/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_.jpg",
+        "obloshka": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6E3379DBFDA41CF305BFD7FE6D14FDB5F901F0CDC9B27C66D7E6FBEA2864B4F2/scale?width=1200&aspectRatio=1.78&format=webp",
+        "director": "Roger Allers",
+        "cast": [
+            "Matthew Broderick",
+            "Jeremy Irons",
+            "James Earl Jones"
+        ],
+        "duration": 88,
+        "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+        "reviews": []
+    },
+    {
+        "id": 34,
+        "title": "Memento",
+        "year": 2000,
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ],
+        "rating": 8.4,
+        "recommended": false,
+        "new": false,
+        "url": "https://flicksbar.mom/film/335/?utm_referrer=www.google.com",
+        "image": "https://artofthemovies.co.uk/cdn/shop/products/IMG_8053-1_720x@2x.jpg?v=1648747362",
+        "obloshka": "https://assets.mubicdn.net/images/artworks/172702/images-original.png?1621560129",
+        "director": "Christopher Nolan",
+        "cast": [
+            "Guy Pearce",
+            "Carrie-Anne Moss",
+            "Joe Pantoliano"
+        ],
+        "duration": 113,
+        "description": "A man with short-term memory loss attempts to track down his wife's murderer.",
+        "reviews": []
+    },
+    {
+        "id": 35,
+        "title": "Apocalypse Now",
+        "year": 1979,
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "rating": 8.4,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/354/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/I/81Yj6xb7OtL._AC_UF894,1000_QL80_.jpg",
+        "obloshka": "https://miro.medium.com/v2/resize:fit:1080/1*R5GvHLmYoJQrbzw39v-cRg.jpeg",
+        "director": "Francis Ford Coppola",
+        "cast": [
+            "Martin Sheen",
+            "Marlon Brando",
+            "Robert Duvall"
+        ],
+        "duration": 147,
+        "description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+        "reviews": []
+    },
+    {
+        "id": 36,
+        "title": "Alien",
+        "year": 1979,
+        "genres": [
+            "Horror",
+            "Sci-Fi"
+        ],
+        "rating": 8.4,
+        "recommended": true,
+        "new": false,
+        "url": "https://flicksbar.mom/film/386/?utm_referrer=www.google.com",
+        "image": "https://blogs.millersville.edu/thesnapper/files/2024/09/romulus_instagram_payoff_poster_united_kingdom_12_dd56170b.jpeg",
+        "obloshka": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgUixHylThqSbG51vsIcolpnwthXfjoHq4gw&s",
+        "director": "Ridley Scott",
+        "cast": [
+            "Sigourney Weaver",
+            "Tom Skerritt",
+            "John Hurt"
+        ],
+        "duration": 117,
+        "description": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
+        "reviews": []
+    },
+    {
+        "id": 37,
+        "title": "The Great Dictator",
+        "year": 1940,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "War"
+        ],
+        "rating": 8.4,
+        "recommended": false,
+        "new": false,
+        "url": "https://flicksbar.mom/film/431/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/I/51ew+ri5KrL._AC_UF894,1000_QL80_.jpg",
+        "obloshka": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/4d1f89e0-4d26-4d36-910e-a8e98e21325f/2beaca3db4265afd1dbbe59a8d506fbe2a1a7a99.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+        "director": "Charles Chaplin",
+        "cast": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Jack Oakie"
+        ],
+        "duration": 125,
+        "description": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+        "reviews": []
+    },
+    {
+        "id": 38,
+        "title": "Django Unchained",
+        "year": 2012,
+        "genres": [
+            "Drama",
+            "Western"
+        ],
+        "rating": 8.4,
+        "recommended": true,
+        "new": true,
+        "url": "https://flicksbar.mom/film/586397/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/ebb04886027f29c7a0ed1c4108ed48afaecfff9760c72e960b0ff6c5039eb88d.jpg",
+        "obloshka": "https://shared.steamstatic.com/store_item_assets/steam/apps/621570/header.jpg?t=1553553989",
+        "director": "Quentin Tarantino",
+        "cast": [
+            "Jamie Foxx",
+            "Christoph Waltz",
+            "Leonardo DiCaprio"
+        ],
+        "duration": 165,
+        "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.",
+        "reviews": []
+    },
+    {
+        "id": 39,
+        "title": "The Shining",
+        "year": 1980,
+        "genres": [
+            "Drama",
+            "Horror"
+        ],
+        "rating": 8.4,
+        "recommended": false,
+        "new": false,
+        "url": "https://flicksbar.mom/film/409/?utm_referrer=www.google.com",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "obloshka": "https://i.ytimg.com/vi/b7-1gCc0Vnw/maxresdefault.jpg",
+        "director": "Stanley Kubrick",
+        "cast": [
+            "Jack Nicholson",
+            "Shelley Duvall",
+            "Danny Lloyd"
+        ],
+        "duration": 146,
+        "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+        "reviews": [
+            
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Blade Runner 2049",
+        "year": 2017,
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "rating": 8.4,
+        "recommended": true,
+        "new": true,
+        "url": "https://flicksbar.mom/film/589290/?utm_referrer=www.google.com",
+        "image": "https://resizing.flixster.com/73VCeyfsM8UDQ0o7IjUIcXr7jd8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RlNzI0MGQyLTQ2ZTktNGMyYi05N2VmLTFjMDhiY2VlMDQ2Ni53ZWJw",
+        "obloshka": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/blade-runner-2049.jpg",
+        "director": "Denis Villeneuve",
+        "cast": [
+            "Harrison Ford",
+            "Ryan Gosling",
+            "Ana de Armas"
+        ],
+        "duration": 164,
+        "description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+        "reviews": [
+
+        ]
+    }
+]
